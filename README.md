@@ -52,11 +52,11 @@
 ### 📈 Power BI Dashboards (Auto-Scroll Style)
 
 <p align="center">
-  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-CiiMxPBxFNybYgL2q9i39j" width="800" />
-  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-UFtVEgcEfDqyQcKJBm5YYL" width="800" />
-  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-FDuJWNSi2A1Pi6x5xqu8Yj" width="800" />
-  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-KQpe4BC53LGrno7omehc2o" width="800" />
-  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-SYdW12ztG4aHtYdWgeQ1XF" width="800" />
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/hospital_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/blinkit_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/pizza_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
 ---
