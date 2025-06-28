@@ -18,6 +18,7 @@
 ---
 
 ### 🐍 Snake Ate My Contribution Streak
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
@@ -26,11 +27,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **interactive dashboards & SQL projects**
-- 🌱 Deep-diving into **Power BI, Tableau, and statistical Python**
-- 💬 Ask me about **SQL queries, data cleaning, or BI tool setup**
-- ⚡ Fun Fact: My snake eats missed GitHub streaks! 🐍💻
-- 📫 Reach me at: **Pushpkarroy880@gmail.com**
+* 🔭 Currently working on **interactive dashboards & SQL projects**
+* 🌱 Deep-diving into **Power BI, Tableau, and statistical Python**
+* 💬 Ask me about **SQL queries, data cleaning, or BI tool setup**
+* ⚡ Fun Fact: My snake eats missed GitHub streaks! 🐍💻
+* 📫 Reach me at: **[Pushpkarroy880@gmail.com](mailto:Pushpkarroy880@gmail.com)**
 
 ---
 
@@ -44,6 +45,18 @@
   <img src="https://img.icons8.com/color/48/power-bi.png"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png"/>
+</p>
+
+---
+
+### 📈 Power BI Dashboards (Auto-Scroll Style)
+
+<p align="center">
+  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-CiiMxPBxFNybYgL2q9i39j" width="800" />
+  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-UFtVEgcEfDqyQcKJBm5YYL" width="800" />
+  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-FDuJWNSi2A1Pi6x5xqu8Yj" width="800" />
+  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-KQpe4BC53LGrno7omehc2o" width="800" />
+  <img src="https://github.com/PushpkarRoy/PushpkarRoy/assets/file-SYdW12ztG4aHtYdWgeQ1XF" width="800" />
 </p>
 
 ---
@@ -80,12 +93,13 @@
 
 ### 🗂️ Featured Projects
 
-- 🎯 [University Subquery Practice](https://github.com/PushpkarRoy/SQL-Subquery-Practice-UniversityDB)
-- 🛒 [Apex Market SQL Analysis](https://github.com/PushpkarRoy/Apex-Market-SQL)
-- 📊 [Power BI Sales Dashboard](https://github.com/PushpkarRoy/PowerBI-SalesDashboard) *(in progress)*
+* 🎯 [University Subquery Practice](https://github.com/PushpkarRoy/SQL-Subquery-Practice-UniversityDB)
+* 🛒 [Apex Market SQL Analysis](https://github.com/PushpkarRoy/Apex-Market-SQL)
+* 📊 [Power BI Sales Dashboard](https://github.com/PushpkarRoy/PowerBI-SalesDashboard) *(in progress)*
 
 ---
 
 <p align="center">
   ⭐ *Explore, fork, and star if my work inspires you. Let's grow together in the world of data!* 🚀
 </p>
+
