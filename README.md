@@ -52,7 +52,8 @@
 ### 📈 Power BI Dashboards (Auto-Scroll Style)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/hospital_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/02764591-178a-4e4d-9702-ef71411c4717" />
+
   <br/><br/>
   <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/blinkit_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
   <br/><br/>
