@@ -52,12 +52,15 @@
 ### 📈 Power BI Dashboards (Auto-Scroll Style)
 
 <p align="center">
-  <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/02764591-178a-4e4d-9702-ef71411c4717" />
+  <img width="591" height="374" alt="image" src="https://github.com/user-attachments/assets/1f3de23f-ac6b-4849-8ebb-5781d53aaefe" />
+
 
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/blinkit_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img width="735" height="425" alt="image" src="https://github.com/user-attachments/assets/6c8f5c2e-b316-408f-8c9e-da64d1c0a85c" />
+
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/pizza_dashboard.png" width="750" style="border-radius:10px; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img width="729" height="414" alt="image" src="https://github.com/user-attachments/assets/e97bfcfb-911b-4a24-a332-4b9db568f333" />
+
 </p>
 
 ---
