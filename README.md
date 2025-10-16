@@ -20,7 +20,7 @@
 ### 🐍 Snake Ate My Contribution Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" /> 
 </p>
 
 ---
