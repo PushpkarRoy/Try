@@ -1,5 +1,5 @@
 <h1 align="center">🎬 Welcome to the Data-Driven World of Pushpkar Roy 🎮</h1>
-<h3 align="center">⚡ Data Analyst | SQL | Python | Power BI | Excel | Tableau | pandas</h3>
+<h3 align="center">⚡ Python by day, SQL by night, ML always.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Daily+SQL+Practice+%F0%9F%93%9A;Python+Scripts+Never+Sleep+%F0%9F%94%A5;Power+BI+Dashboards+In+Progress+%F0%9F%93%8A;Data+Cleaning+With+pandas+%F0%9F%A7%90;Data+Never+Lies+%E2%9C%85"/>
@@ -7,10 +7,31 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Curious mind, structured data — building clarity out of chaos, one dashboard at a time.
+
+**Featured**
+* [Mental Health Predictor](https://github.com/PushpkarRoy/mental-health-predictor) — Machine Learning model predicting mental health risk from behavioral & lifestyle data.
+* [Samsung Sales Analysis](https://github.com/PushpkarRoy/Samsung-Sales-Analysis) — Power BI dashboard uncovering sales trends & regional performance insights.
+* [Drive Shift Analysis](https://github.com/PushpkarRoy/Drive-Shift-Analysis) — Advanced SQL & data analysis project on driver shift patterns and performance.
+
+➤ Currently working at **RPS Business Solution**
+➤ Active learner — deep-diving into Power BI, Tableau & statistical Python
+➤ Reach me: [Pushpkarroy880@gmail.com](mailto:Pushpkarroy880@gmail.com)
+
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PushpkarRoy&label=Profile%20views&color=0e75b6&style=flat" alt="PushpkarRoy" />
   <img src="https://img.shields.io/github/followers/PushpkarRoy?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPushpkarRoy" alt="repos" />
 </p>
 
 ---
