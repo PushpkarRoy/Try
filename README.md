@@ -9,10 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PushpkarRoy&label=Profile%20views&color=0e75b6&style=flat" alt="PushpkarRoy" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushpkarRoy&theme=gruvbox&no-bg=true&margin-w=10" />
+  <img src="https://img.shields.io/github/followers/PushpkarRoy?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPushpkarRoy" alt="repos" />
 </p>
 
 ---
@@ -20,61 +18,85 @@
 ### 🐍 Snake Ate My Contribution Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" /> 
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
-
----
-
-### 🧠 About Me
-
-* 🔭 Currently working on **interactive dashboards & SQL projects**
-* 🌱 Deep-diving into **Power BI, Tableau, and statistical Python**
-* 💬 Ask me about **SQL queries, data cleaning, or BI tool setup**
-* ⚡ Fun Fact: My snake eats missed GitHub streaks! 🐍💻
-* 📫 Reach me at: **[Pushpkarroy880@gmail.com](mailto:Pushpkarroy880@gmail.com)**
 
 ---
 
 ### 🛠️ Tools & Technologies
 
+<p align="center"><b>Languages & Querying</b></p>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/fluency/48/sql.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center"><b>Data Analysis & Machine Learning</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<p align="center"><b>BI & Visualization</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+<p align="center"><b>Dev Tools & Workflow</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 Power BI Dashboards (Auto-Scroll Style)
+### 🤖 Machine Learning & Data Science
 
-<p align="center">
-  <img width="591" height="374" alt="image" src="https://github.com/user-attachments/assets/1f3de23f-ac6b-4849-8ebb-5781d53aaefe" />
-
-
-<p align="center">
-  <img width="591" height="374" alt="image" src="https://github.com/user-attachments/assets/6c8f5c2e-b316-408f-8c9e-da64d1c0a85c" />
-
-</p>
+* 📈 Regression, Classification & Clustering with **Scikit-Learn**
+* 🧹 Data wrangling & feature engineering with **pandas / NumPy**
+* 📊 Exploratory Data Analysis (EDA) with **Matplotlib / Seaborn**
+* 🧠 Model evaluation — accuracy, precision/recall, cross-validation
+* 🔁 Building reproducible ML pipelines & automating workflows with **Airflow**
+* 🗃️ Working with structured data in **MySQL / PostgreSQL**
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=PushpkarRoy&show_icons=true&theme=radical" height="150"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpkarRoy&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PushpkarRoy&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpkarRoy&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 </p>
+
+<!--
+  NOTE: The badges above use the free public github-readme-stats.vercel.app demo server,
+  which is shared by thousands of GitHub users worldwide and occasionally rate-limits or
+  times out (this is a known upstream issue, unrelated to this README's code).
+  If they stop rendering, either:
+    1) Wait a few minutes and refresh - it usually recovers on its own, or
+    2) Deploy your own free instance by forking https://github.com/anuraghazra/github-readme-stats
+       to Vercel, then replace "github-readme-stats.vercel.app" above with your own
+       "your-project-name.vercel.app" domain for a stats card that's fully under your control.
+-->
+
 
 ---
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpkarRoy&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpkarRoy&theme=tokyonight" />
 </p>
 
 ---
@@ -82,25 +104,14 @@
 ### 🎯 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/pushpkar-roy" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
   </a>
   <a href="mailto:Pushpkarroy880@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png"/>
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" title="Email"/>
   </a>
 </p>
 
----
-
-### 🗂️ Featured Projects
-
-* 🎯 [University Subquery Practice](https://github.com/PushpkarRoy/SQL-Subquery-Practice-UniversityDB)
-* 🛒 [Apex Market SQL Analysis](https://github.com/PushpkarRoy/Apex-Market-SQL)
-* 📊 [Power BI Sales Dashboard](https://github.com/PushpkarRoy/PowerBI-SalesDashboard) *(in progress)*
-
----
-
 <p align="center">
-  ⭐ *Explore, fork, and star if my work inspires you. Let's grow together in the world of data!* 🚀
+  ⭐ <i>Explore, fork, and star if my work inspires you. Let's grow together in the world of data!</i> 🚀
 </p>
-
